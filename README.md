@@ -1,5 +1,11 @@
-### Hi there 👋
+<img alt="sand" src="https://drive.google.com/uc?export=view&id=1b19GiTyH7QHDPchrS4TeFAlrv5yp36wH" />
 
+<!-- [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandokojiyama/)](https://www.linkedin.com/in/fernandokojiyama/) -->
+<!-- badges: linkedin, portfolio, instagram -->
+### Hi there 👋
+<!-- apresentação -->
+
+<!-- descrição curta -->
 <!--
 **Kojji/Kojji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
