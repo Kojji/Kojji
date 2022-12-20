@@ -1,8 +1,8 @@
 <img alt="Fernando Koji Yamashiro GIF Animation" src="https://drive.google.com/uc?export=view&id=1b19GiTyH7QHDPchrS4TeFAlrv5yp36wH" />
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandokojiyama/)
-![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@fernandokojidev/)
-![Portfolio Badge](https://img.shields.io/static/v1?style=for-the-badge&label=PORTFOLIO&message=fernandokoji.dev&color=green&link=https://fernandokoji.dev/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernandokojiyama/)
+[![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fernandokojidev/)
+[![Portfolio Badge](https://img.shields.io/static/v1?style=for-the-badge&label=PORTFOLIO&message=fernandokoji.dev&color=green)](https://fernandokoji.dev/)
 <br /><br />
 ![Typescript Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
