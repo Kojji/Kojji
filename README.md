@@ -16,7 +16,7 @@
 <br /><br /><br />
 
 ## Hi there 👋
-### I'm Fernando, a web developer from Brazil :earth_americas: lately I've been working mostly with back end development, but I do enjoy making CSS/JS animations. There are useful links to know more about me or my projects on the first set of badges in the beginning of this page.
+### I'm Fernando, a web developer from Brazil, currently based on Australia. Lately I've been working mostly with back end development, but I do enjoy making CSS/JS animations. There are useful links to know more about me or my projects on the first set of badges in the beginning of this page. But, otherwise, feel free to navigate through some of my finished/unfinished projects.
 
 <!--
 **Kojji/Kojji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
